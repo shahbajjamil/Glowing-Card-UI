@@ -82,8 +82,8 @@ body {
     background: linear-gradient(235deg,#89ff00,#010615,#00bcd4);
 }
 
-.box:nth-child(4)::before,
-.box:nth-child(4)::after 
+.box:nth-child(2)::before,
+.box:nth-child(2)::after 
 {
     background: linear-gradient(235deg,#ff005e,#010615,#fbff00);
 }
