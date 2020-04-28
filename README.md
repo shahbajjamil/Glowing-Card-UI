@@ -1,5 +1,7 @@
 # Glowing-Card-UI
 
+[View on web](https://shahbajjamil.github.io/Glowing-Card-UI/)
+
 Responsive card with glowing effect
 
 <img src="card.gif" alt="card">
